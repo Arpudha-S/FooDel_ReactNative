@@ -8,3 +8,5 @@ React Native\
 Spring Boot - JDBC - connected DB
 
 ## Front End
+User creates a new account if it does not exist.\
+![](Screenshots/newacccreate.png)

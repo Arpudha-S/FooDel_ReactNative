@@ -10,3 +10,19 @@ Spring Boot - JDBC - connected DB
 ## Front End
 User creates a new account if it does not exist.\
 ![](Screenshots/newacccreate.png)
+
+User logs into their account if account does not exist, redirects to register pg.\
+![](Screenshots/usrlogin.png)
+
+User views menu after login.\
+![](Screenshots/menupg.png)
+
+User selects food items from menu and places order.\
+![](Screenshots/orderpg.png)
+
+User enters address for delivery.\
+![](Screenshots/delivaddr.png)
+
+The order conformation message is displayed.\
+![](Screenshots/ordconfo.png)
+

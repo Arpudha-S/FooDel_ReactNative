@@ -29,7 +29,7 @@ The order conformation message is displayed.\
 This database provides the user login details.\
 ![](Screenshots/logusrdetails.png)
 
-This database provides delivery address of user.\
+This database provides order details of user.\
 ![](Screenshots/orddetails.png)
 
 This database provides the menu order by customer.\

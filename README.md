@@ -26,3 +26,11 @@ User enters address for delivery.\
 The order conformation message is displayed.\
 ![](Screenshots/ordconfo.png)
 
+This database provides the user login details.\
+![](Screenshots/logusrdetails.png)
+
+This database provides delivery address of user.\
+![](Screenshots/orddetails.png)
+
+This database provides the menu order by customer.\
+![](Screenshots/ordermenu.png)
